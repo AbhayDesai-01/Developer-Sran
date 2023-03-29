@@ -1,0 +1,3 @@
+hello, trying to check the concept of rebase
+editing from mybranch, again adding something
+let me show the differnece of merge and rebase
