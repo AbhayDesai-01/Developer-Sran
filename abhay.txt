@@ -9,3 +9,4 @@ hey feature branch is also present here
 >>>>>>> Stashed changes
 
 require to show add and commit in both one line
+unstag
